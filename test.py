@@ -1,2 +1,2 @@
-for i in 123456:
+for i in range(10):
     print(i)
